@@ -1,0 +1,6 @@
+framework module Pods_assetz_property {
+  umbrella header "Pods-assetz-property-umbrella.h"
+
+  export *
+  module * { export * }
+}
